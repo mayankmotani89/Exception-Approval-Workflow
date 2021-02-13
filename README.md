@@ -1,2 +1,2 @@
 # Exception-Approval-Workflow
-Exception approval workflow for management team
+Provides a method for documenting an exception to SLA agreements as per established service level agreements
